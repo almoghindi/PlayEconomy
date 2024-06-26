@@ -22,6 +22,7 @@ PlayEconomy is a simulation platform designed to mimic economic activities. The 
 
 ### Backend
 
+- ASP.NET Core Web API
 - .NET Core
 - RabbitMQ (for messaging)
 - MongoDB (NoSQL database)
