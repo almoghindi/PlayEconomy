@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "\\Play.Catalog\\src\\Play.Catalog.Service\\Entities",
+    "\\Play.Common\\src",
+    "\\Play.Common\\src\\Play.Common\\MassTransit",
+    "\\Play.Common\\src\\Play.Common\\MongoDB",
+    "\\Play.Frontend\\src\\components",
+    "\\Play.Inventory\\src",
+    "\\Play.Inventory\\src\\Play.Inventory.Service",
+    "\\Play.Inventory\\src\\Play.Inventory.Service\\Consumers",
+    "\\Play.Inventory\\src\\Play.Inventory.Service\\Controllers",
+    "\\Play.Inventory\\src\\Play.Inventory.Service\\Entities"
+  ],
+  "PreviewInSolutionExplorer": false
+}

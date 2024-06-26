@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Infra\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Play.Infra\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Frontend\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Play.Frontend\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Inventory\\src\\Play.Inventory.Service\\Consumers\\CatalogItemCreatedConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Play.Inventory\\src\\Play.Inventory.Service\\Consumers\\CatalogItemCreatedConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Inventory\\src\\Play.Inventory.Service\\Controllers\\ItemsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Play.Inventory\\src\\Play.Inventory.Service\\Controllers\\ItemsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Common\\src\\Play.Common\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Play.Common\\src\\Play.Common\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Common\\src\\Play.Common\\MongoDB\\MongoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Play.Common\\src\\Play.Common\\MongoDB\\MongoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Common\\src\\Play.Common\\MongoDB\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Play.Common\\src\\Play.Common\\MongoDB\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Common\\src\\Play.Common\\MassTransit\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Play.Common\\src\\Play.Common\\MassTransit\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Entities\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Play.Catalog\\src\\Play.Catalog.Service\\Entities\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Play.Catalog\\src\\Play.Catalog.Contracts\\Contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "Play.Frontend\\src\\App.js",
+              "ToolTip": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Frontend\\src\\App.js",
+              "RelativeToolTip": "Play.Frontend\\src\\App.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-26T21:46:32.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogItemCreatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Inventory\\src\\Play.Inventory.Service\\Consumers\\CatalogItemCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "Play.Inventory\\src\\Play.Inventory.Service\\Consumers\\CatalogItemCreatedConsumer.cs",
+              "ToolTip": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Inventory\\src\\Play.Inventory.Service\\Consumers\\CatalogItemCreatedConsumer.cs",
+              "RelativeToolTip": "Play.Inventory\\src\\Play.Inventory.Service\\Consumers\\CatalogItemCreatedConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:46:10.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Inventory\\src\\Play.Inventory.Service\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Play.Inventory\\src\\Play.Inventory.Service\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Inventory\\src\\Play.Inventory.Service\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Play.Inventory\\src\\Play.Inventory.Service\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:45:45.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Common\\src\\Play.Common\\IRepository.cs",
+              "RelativeDocumentMoniker": "Play.Common\\src\\Play.Common\\IRepository.cs",
+              "ToolTip": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Common\\src\\Play.Common\\IRepository.cs",
+              "RelativeToolTip": "Play.Common\\src\\Play.Common\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:45:29.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MongoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Common\\src\\Play.Common\\MongoDB\\MongoRepository.cs",
+              "RelativeDocumentMoniker": "Play.Common\\src\\Play.Common\\MongoDB\\MongoRepository.cs",
+              "ToolTip": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Common\\src\\Play.Common\\MongoDB\\MongoRepository.cs",
+              "RelativeToolTip": "Play.Common\\src\\Play.Common\\MongoDB\\MongoRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAD0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:45:17.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Common\\src\\Play.Common\\MongoDB\\Extensions.cs",
+              "RelativeDocumentMoniker": "Play.Common\\src\\Play.Common\\MongoDB\\Extensions.cs",
+              "ToolTip": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Common\\src\\Play.Common\\MongoDB\\Extensions.cs",
+              "RelativeToolTip": "Play.Common\\src\\Play.Common\\MongoDB\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:45:16.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Common\\src\\Play.Common\\MassTransit\\Extensions.cs",
+              "RelativeDocumentMoniker": "Play.Common\\src\\Play.Common\\MassTransit\\Extensions.cs",
+              "ToolTip": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Common\\src\\Play.Common\\MassTransit\\Extensions.cs",
+              "RelativeToolTip": "Play.Common\\src\\Play.Common\\MassTransit\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:45:07.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:44:43.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "Play.Catalog\\src\\Play.Catalog.Service\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Entities\\Item.cs",
+              "RelativeToolTip": "Play.Catalog\\src\\Play.Catalog.Service\\Entities\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:44:37.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contracts.cs",
+              "DocumentMoniker": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Contracts.cs",
+              "RelativeDocumentMoniker": "Play.Catalog\\src\\Play.Catalog.Contracts\\Contracts.cs",
+              "ToolTip": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Contracts.cs",
+              "RelativeToolTip": "Play.Catalog\\src\\Play.Catalog.Contracts\\Contracts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:44:16.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Infra\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Play.Infra\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\almog\\Downloads\\programming\\programming\\ASP.NET\\DotNetMicroservices\\Play.Infra\\docker-compose.yml",
+              "RelativeToolTip": "Play.Infra\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-26T21:43:57.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
